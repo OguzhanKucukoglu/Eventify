@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ana Sayfa - Eventify</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/dashboard.css">
+</head>
+<body>
+    <header class="top-navbar">
+        <div class="brand">
+            <i class="fas fa-calendar-check"></i>
+            <h1>Eventify</h1>
+        </div>
+        
+        <div class="nav-right">
+            <div class="nav-center">
+                <select id="citySelect" class="nav-select">
+                    <option value="İstanbul">İstanbul</option>
+                    <option value="Ankara">Ankara</option>
+                    <option value="İzmir">İzmir</option>
+                    <option value="Bursa">Bursa</option>
+                    <option value="Antalya">Antalya</option>
+                    <option value="Erzurum">Erzurum</option>
+                </select>
+            </div>
+            <a href="/admin" id="adminPanelItem" class="nav-link" style="display: none;"><i class="fas fa-user-shield"></i> Admin Paneli</a>
+            <a href="/cart" class="nav-link-cart">
+                <i class="fas fa-shopping-cart"></i> Sepet
+                <span class="cart-count" id="cartCount">0</span>
+            </a>
+            <a href="welcome.html" id="logoutBtn" class="nav-link"><i class="fas fa-sign-out-alt"></i> Çıkış Yap</a>
+        </div>
+    </header>
+
+    <section class="announcements-section">
+        <h2>Duyurular</h2>
+        <div id="announcements" class="announcements-container">
+            <p class="loading">Duyurular yükleniyor...</p>
+        </div>
+    </section>
+
+    <section class="weather-section">
+        <h2>Hava Durumu</h2>
+        <div id="weatherInfo" class="weather-info">
+            <p>Hava durumu bilgisi için üst menüden bir şehir seçin.</p>
+        </div>
+    </section>
+
+    <section class="interests-section">
+        <div class="interests-container">
+            <h2>İlgi Alanlarınız</h2>
+            <form id="interestsForm">
+                <div class="checkbox-group">
+                    <label>
+                        <input type="checkbox" name="interests" value="Spor">
+                        <span>Spor</span>
+                    </label>
+                    <label>
+                        <input type="checkbox" name="interests" value="Sinema">
+                        <span>Sinema</span>
+                    </label>
+                    <label>
+                        <input type="checkbox" name="interests" value="Konser">
+                        <span>Konser</span>
+                    </label>
+                    <label>
+                        <input type="checkbox" name="interests" value="Tiyatro">
+                        <span>Tiyatro</span>
+                    </label>
+                </div>
+                <button type="submit" class="btn primary-btn">
+                    Güncelle
+                </button>
+            </form>
+        </div>
+    </section>
+
+    <section class="recommended-section">
+        <h2>Size Özel Öneriler</h2>
+        <div id="recommendedEvents" class="events-grid">
+            <p class="loading">Öneriler yükleniyor...</p>
+        </div>
+    </section>
+
+    <section class="events-section">
+        <h2>Etkinlikler</h2>
+        <div class="filter-container">
+            <select id="eventTypeFilter">
+                <option value="all">Tüm Etkinlikler</option>
+                <option value="Spor">Spor</option>
+                <option value="Sinema">Sinema</option>
+                <option value="Konser">Konser</option>
+                <option value="Tiyatro">Tiyatro</option>
+            </select>
+        </div>
+        <div id="events" class="events-grid">
+            <p class="loading">Etkinlikler yükleniyor...</p>
+        </div>
+    </section>
+
+    <footer class="main-footer">
+        <div class="container">
+            <p>&copy; 2025 Eventify</p>
+            <p>Etkinlik bilgileri için <a href="https://etkinlik.io" target="_blank">etkinlik.io</a> sitesi kullanılmıştır.</p>
+        </div>
+    </footer>
+
+    <script src="js/dashboard.js"></script>
+</body>
+</html>

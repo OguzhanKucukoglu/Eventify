@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+  <event>
+    <id>1001</id>
+    <title>Fenerbahçe vs Galatasaray</title>
+    <description>Süper Lig derbi maçı. Sezonun en önemli karşılaşmalarından biri.</description>
+    <date>2025-05-31</date>
+    <time>19:00</time>
+    <location>Ülker Stadyumu, İstanbul</location>
+    <type>Spor</type>
+    <capacity>50000</capacity>
+    <remainingCapacity>5000</remainingCapacity>
+    <price>250</price>
+    <image>https://images.unsplash.com/photo-1595978855774-0ba667461733?q=80&amp;w=2599&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</image>
+  </event>
+  <event>
+    <id>2001</id>
+    <title>Yeni Batman Filmi Galası</title>
+    <description>Yeni Batman filminin özel gösterimi. Oyuncular galada yer alacak.</description>
+    <date>2025-05-28</date>
+    <time>21:00</time>
+    <location>Kanyon AVM, İstanbul</location>
+    <type>Sinema</type>
+    <capacity>300</capacity>
+    <remainingCapacity>104</remainingCapacity>
+    <price>550</price>
+    <image>https://images.unsplash.com/photo-1596284274000-7d3eca888e3e?q=80&amp;w=2701&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</image>
+  </event>
+  <event>
+    <id>2002</id>
+    <title>Film Festivali Açılış Gecesi</title>
+    <description>41. İstanbul Film Festivali açılış gecesi ve özel gösterim.</description>
+    <date>2025-06-15</date>
+    <time>19:30</time>
+    <location>Atlas Sineması, İstanbul</location>
+    <type>Sinema</type>
+    <capacity>500</capacity>
+    <remainingCapacity>187</remainingCapacity>
+    <price>750</price>
+    <image>https://plus.unsplash.com/premium_photo-1683740129275-675d39d69418?q=80&amp;w=2670&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</image>
+  </event>
+  <event>
+    <id>2003</id>
+    <title>Yeni Türk Filmi Gösterimi</title>
+    <description>Ödüllü yönetmenin son filmi ilk kez seyirciyle buluşuyor.</description>
+    <date>2025-05-27</date>
+    <time>20:30</time>
+    <location>Cinemaximum, Ankara</location>
+    <type>Sinema</type>
+    <capacity>250</capacity>
+    <remainingCapacity>174</remainingCapacity>
+    <price>60</price>
+    <image>https://cdn.pixabay.com/photo/2017/11/24/10/43/admission-2974645_960_720.jpg</image>
+  </event>
+  <event>
+    <id>3001</id>
+    <title>Tarkan Konseri</title>
+    <description>Megastar Tarkan yeni albümü ile Harbiye Açık Hava Tiyatrosu'nda.</description>
+    <date>2025-06-20</date>
+    <time>21:00</time>
+    <location>Harbiye Açık Hava Tiyatrosu, İstanbul</location>
+    <type>Konser</type>
+    <capacity>4000</capacity>
+    <remainingCapacity>1490</remainingCapacity>
+    <price>350</price>
+    <image>https://cdn.pixabay.com/photo/2016/11/22/19/15/audience-1850119_960_720.jpg</image>
+  </event>
+  <event>
+    <id>3002</id>
+    <title>Senfoni Orkestrası Konseri</title>
+    <description>Cumhurbaşkanlığı Senfoni Orkestrası klasik müzik konseri.</description>
+    <date>2025-06-10</date>
+    <time>20:00</time>
+    <location>Atatürk Kültür Merkezi, İstanbul</location>
+    <type>Konser</type>
+    <capacity>2000</capacity>
+    <remainingCapacity>1188</remainingCapacity>
+    <price>200</price>
+    <image>https://cdn.pixabay.com/photo/2016/11/29/06/17/audience-1867754_960_720.jpg</image>
+  </event>
+  <event>
+    <id>4001</id>
+    <title>Hamlet</title>
+    <description>Shakespeare'in ölümsüz eseri Hamlet, modern bir yorumla sahnede.</description>
+    <date>2025-06-25</date>
+    <time>20:00</time>
+    <location>Şehir Tiyatroları, İstanbul</location>
+    <type>Tiyatro</type>
+    <capacity>500</capacity>
+    <remainingCapacity>343</remainingCapacity>
+    <price>500</price>
+    <image>https://cdn.pixabay.com/photo/2015/01/09/17/34/opera-594592_960_720.jpg</image>
+  </event>
+  <event>
+    <id>4002</id>
+    <title>Bir Delinin Hatıra Defteri</title>
+    <description>Gogol'un başyapıtı tek kişilik muhteşem bir performansla sahnede.</description>
+    <date>2025-06-25</date>
+    <time>19:30</time>
+    <location>DasDas, İstanbul</location>
+    <type>Tiyatro</type>
+    <capacity>300</capacity>
+    <remainingCapacity>176</remainingCapacity>
+    <price>150</price>
+    <image>https://images.unsplash.com/photo-1562329265-95a6d7a83440?q=80&amp;w=2570&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</image>
+  </event>
+  <event>
+    <id>4003</id>
+    <title>Romeo ve Juliet</title>
+    <description>Shakespeare'in ölümsüz aşk hikayesi modern bir yorumla.</description>
+    <date>2025-07-22</date>
+    <time>19:30</time>
+    <location>Zorlu PSM, İstanbul</location>
+    <type>Tiyatro</type>
+    <capacity>600</capacity>
+    <remainingCapacity>392</remainingCapacity>
+    <price>180</price>
+    <image>https://images.unsplash.com/photo-1648464674642-79469507144b?q=80&amp;w=2692&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</image>
+  </event>
+  <event>
+    <id>1747135991793</id>
+    <title>Ahmet Aslan - Solo Konser</title>
+    <description>Anadolu müziğini batı enstrümanlarıyla birlikte kullanan Ahmet Aslan, müzikseverlerle buluşuyor.
+</description>
+    <date>2025-06-13</date>
+    <time>20:00</time>
+    <location>Necip Fazıl Kısakürek Kültür Merkezi, Erzurum</location>
+    <type>Konser</type>
+    <capacity>200</capacity>
+    <remainingCapacity>197</remainingCapacity>
+    <price>300</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/5/ahmet-aslan-solo-konser-256105.jpg</image>
+  </event>
+  <event>
+    <id>1747136195679</id>
+    <title>Notre Dame'ın Kamburu</title>
+    <description>Notre Dame'ın Kamburu, seyircisi ile buluşmaya devam ediyor..
+</description>
+    <date>2025-06-15</date>
+    <time>20:00</time>
+    <location>Necip Fazıl Kısakürek Kültür Merkezi, Erzurum</location>
+    <type>Tiyatro</type>
+    <capacity>450</capacity>
+    <remainingCapacity>446</remainingCapacity>
+    <price>750</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/4/notre-damein-kamburu-253500.jpg</image>
+  </event>
+  <event>
+    <id>1747136808612</id>
+    <title>Kel Diva</title>
+    <description>Yıkımın ortasında, Bay ve Bayan Smith, ellerinde kalan son İngilizlik kırıntılarıyla Bay ve Bayan Martin’i evlerinde ağırlayacaklar. Peki evde en ufak bir yangın başlangıcı bile yokken İtfaiye Şefi’nin Hizmetçi Mary’nin taburesi üzerinde ne işi var?</description>
+    <date>2025-07-10</date>
+    <time>21:00</time>
+    <location>MEB Şura Salonu, Ankara</location>
+    <type>Tiyatro</type>
+    <capacity>300</capacity>
+    <remainingCapacity>297</remainingCapacity>
+    <price>500</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/4/kel-diva-254106.png</image>
+  </event>
+  <event>
+    <id>1747137326961</id>
+    <title>Selçuk Balcı</title>
+    <description>Selçuk Balcı, sevenleriyle buluşmak için şehrine geliyor!
+</description>
+    <date>2025-05-28</date>
+    <time>20:00</time>
+    <location>4 Mevsim Tiyatro Salonu, Ankara</location>
+    <type>Konser</type>
+    <capacity>100</capacity>
+    <remainingCapacity>95</remainingCapacity>
+    <price>250</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/4/selcuk-balci-253418.jpg</image>
+  </event>
+  <event>
+    <id>1747137531169</id>
+    <title>Maria</title>
+    <description>1970’lerin Paris’inde, dünyaca ünlü opera sanatçısı Maria Callas’ın çalkantılı, güzel ve trajik hayatının son günlerini yeniden yaşatan ve hayal ettiren filmin başrollerinde Angelina Jolie, Haluk Bilginer ve Alba Rohrwacher var.</description>
+    <date>2025-05-26</date>
+    <time>14:00</time>
+    <location>Kült Kavaklıdere, Ankara</location>
+    <type>Sinema</type>
+    <capacity>150</capacity>
+    <remainingCapacity>144</remainingCapacity>
+    <price>400</price>
+    <image>https://b6s54eznn8xq.merlincdn.net/Uploads/Films/maria-2025-2025115152425b465c6b9b92e486b8cacce39d702e21a.jpg</image>
+  </event>
+  <event>
+    <id>1747137720683</id>
+    <title>Flow: Bir Kedinin Yolculuğu</title>
+    <description>Kedi, yalnız bir hayvandır. Evi büyük bir sel tarafından yerle bir edilince, çeşitli hayvan türlerinin yaşadığı bir teknede sığınak bulur ve farklılıklarına rağmen onlarla işbirliği yapmak zorunda kalır.
+</description>
+    <date>2025-05-30</date>
+    <time>15:00</time>
+    <location>Kült Kavaklıdere, Ankara</location>
+    <type>Sinema</type>
+    <capacity>150</capacity>
+    <remainingCapacity>146</remainingCapacity>
+    <price>400</price>
+    <image>https://b6s54eznn8xq.merlincdn.net/Uploads/Films/flow-2024121617124663868a79bace4452ad89aa5d4403460a.png</image>
+  </event>
+  <event>
+    <id>1747141237232</id>
+    <title>Thunderbolts </title>
+    <description>Thunderbolts filminde, alışılmışın dışında bir anti-kahraman ekibi bir araya geliyor: Yelena Belova, Bucky Barnes, Red Guardian, Ghost, Taskmaster ve John Walker. Valentina Allegra de Fontaine’in kurduğu ölümcül bir tuzağa düşen bu dışlanmış karakterler, geçmişlerinin en karanlık yönleriyle yüzleşmek zorunda kalacakları tehlikeli bir göreve çıkıyor.</description>
+    <date>2025-05-30</date>
+    <time>21:00</time>
+    <location>Scarlett Sineması, Erzurum</location>
+    <type>Sinema</type>
+    <capacity>150</capacity>
+    <remainingCapacity>146</remainingCapacity>
+    <price>400</price>
+    <image>https://b6s54eznn8xq.merlincdn.net/Uploads/Films/thunderbolts-2025520221561620e1b7b5641f69dd0c604bb6fbba6.jpg</image>
+  </event>
+  <event>
+    <id>1747754716084</id>
+    <title>DJ Performans Gecesi</title>
+    <description>Hazır mısınız? Şehrin ritmini değiştirecek unutulmaz bir geceye davetlisiniz!
+
+En sevilen DJ’lerin sahne alacağı bu özel gecede, elektronik müziğin büyüsüne kapılacak, lazer ışıkları ve güçlü ses sistemleri eşliğinde müziği iliklerinizde hissedeceksiniz.</description>
+    <date>2025-08-12</date>
+    <time>22:00</time>
+    <location>Babylon, İstanbul</location>
+    <type>Konser</type>
+    <capacity>250</capacity>
+    <price>500</price>
+    <image>https://images.unsplash.com/photo-1492684223066-81342ee5ff30?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=1170&amp;q=80</image>
+    <remainingCapacity>249</remainingCapacity>
+  </event>
+  <event>
+    <id>1747754846180</id>
+    <title>Metallica Dünya Turu</title>
+    <description>Metal müziğin öncüsü Metallica, dünya turnesi kapsamında Türkiye'de hayranlarıyla buluşuyor.
+
+40 yılı aşkın bir kariyer, milyonları peşinden sürükleyen sahne enerjisi ve unutulmaz parçalarıyla Metallica, bu turnede hem klasiklerini hem de son albümünden parçaları seslendirecek.</description>
+    <date>2025-08-18</date>
+    <time>20:00</time>
+    <location>Olimpiyat Stadyumu, İstanbul</location>
+    <type>Konser</type>
+    <capacity>1200</capacity>
+    <price>2500</price>
+    <image>https://cdn.media.amplience.net/i/metallica/2024-08aug18_social</image>
+    <remainingCapacity>1198</remainingCapacity>
+  </event>
+  <event>
+    <id>1747754923257</id>
+    <title>Rock Festivali 2025</title>
+    <description>Rock Festivali 2025, bu yıl daha güçlü, daha yüksek sesli ve daha unutulmaz!
+Alternatif rock’tan metal’e, indie’den klasik rock’a kadar en sevilen gruplar tek sahnede buluşuyor.</description>
+    <date>2025-09-05</date>
+    <time>16:00</time>
+    <location>Küçükçiftlik Park, İstanbul</location>
+    <type>Konser</type>
+    <capacity>400</capacity>
+    <price>1200</price>
+    <image>https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=1170&amp;q=80</image>
+    <remainingCapacity>398</remainingCapacity>
+  </event>
+  <event>
+    <id>1747755489049</id>
+    <title>Uluslararası Maraton</title>
+    <description>Sporun ve birlikteliğin gücünü bir araya getiren Uluslararası Maraton, dünyanın dört bir yanından gelen sporcuları, amatör koşucuları ve sporseverleri aynı parkurda buluşturuyor.</description>
+    <date>2025-06-30</date>
+    <time>08:00</time>
+    <location>Bogaziçi Köprüsü, İstanbul</location>
+    <type>Spor</type>
+    <capacity>1500</capacity>
+    <price>100</price>
+    <image>https://images.unsplash.com/photo-1524646349956-1590eacfa324?q=80&amp;w=2070&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D</image>
+  </event>
+  <event>
+    <id>1748086485991</id>
+    <title>Aşk Biter Mi ?</title>
+    <description>Bir kadın ve bir erkek...
+
+Bir geçmişleri, bir hiç geçmemişleri ve bir de tartıştıkları gelecekleri var.
+
+Erkek ve kadın karşılaşıyor ve yolculuk başlıyor.
+
+İmkansız şiirler ve şarkılar işte bu iki kişinin ortasına düşüyor...
+</description>
+    <date>2025-05-31</date>
+    <time>21:00</time>
+    <location>İzmir Kültürpark Açıkhava Tiyatrosu, İzmir</location>
+    <type>Tiyatro</type>
+    <capacity>300</capacity>
+    <remainingCapacity>295</remainingCapacity>
+    <price>500</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/4/ask-biter-mi-254820.jpg</image>
+  </event>
+  <event>
+    <id>1748086915101</id>
+    <title>Hande Yener</title>
+    <description>Hande Yener, 27 Mayıs akşamı İzmir Kültürpark Açıkhava Tiyatrosu'nda sizlerle..
+</description>
+    <date>2025-05-27</date>
+    <time>21:00</time>
+    <location>İzmir Kültürpark , İzmir</location>
+    <type>Konser</type>
+    <capacity>250</capacity>
+    <remainingCapacity>250</remainingCapacity>
+    <price>500</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/4/hande-yener-255189.jpg</image>
+  </event>
+  <event>
+    <id>1748087843204</id>
+    <title>Glass Beams</title>
+    <description>Glass Beams, Tarihi Havagazı Fabrikası'nda sizlerle!
+</description>
+    <date>2025-05-31</date>
+    <time>21:00</time>
+    <location>Tarihi Havagazı Fabrikası, İzmir</location>
+    <type>Konser</type>
+    <capacity>300</capacity>
+    <remainingCapacity>300</remainingCapacity>
+    <price>500</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/4/glass-beams-255325.png</image>
+  </event>
+  <event>
+    <id>1748088209766</id>
+    <title>Gökhan Türkmen</title>
+    <description>Gökhan Türkmen, İzmir Kültürpark Açıkhava sahnesinde..
+</description>
+    <date>2025-05-30</date>
+    <time>21:00</time>
+    <location>İzmir Kültürpark Açıkhava , İzmir</location>
+    <type>Konser</type>
+    <capacity>200</capacity>
+    <remainingCapacity>200</remainingCapacity>
+    <price>450</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/4/gokhan-turkmen-254505.png</image>
+  </event>
+  <event>
+    <id>1748092424051</id>
+    <title>Redd Senfoni</title>
+    <description>Redd Senfoni, 2 Haziran akşamı İzmir Kültürpark Açıkhava Tiyatrosu'nda!</description>
+    <date>2025-06-02</date>
+    <time>21:00</time>
+    <location>İzmir Kültürpark Açıkhava , İzmir</location>
+    <type>Konser</type>
+    <capacity>250</capacity>
+    <remainingCapacity>250</remainingCapacity>
+    <price>450</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/5/redd-senfoni-256787.jpg</image>
+  </event>
+  <event>
+    <id>1748094388438</id>
+    <title>Leyla ile Mecnun Değil</title>
+    <description>Sevginin içinde öfke, hüznün içinde gülümseme, hızın içinde durgunluk. İnsanlık tüm azgınlığı ve doyumsuzluğuyla tüketirken dünyayı, Kadın ve Adamlar tükenmeyecekler mi? Çok iyi anlaşmak bile zarar mı verecek? Beraber çok çok ama çok eğlenmek bile tüketecek mi? Tükenmek, yeniden yaratılmak belki de. Bir cenaze üzerinden, boşanan iki çiftin herkes gibi olduğu, küresel erkek-kadın dertlerinin dünyanın dertleriyle örtüştüğü, yaşamı ve ölümü tekleştiren oyunumuzla seyircimizle birlikte çok eğleneceğiz.</description>
+    <date>2025-05-28</date>
+    <time>20:30</time>
+    <location>Torium AVM, İstanbul</location>
+    <type>Tiyatro</type>
+    <capacity>300</capacity>
+    <remainingCapacity>300</remainingCapacity>
+    <price>500</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/3/leyla-ile-mecnun-degil-251555.jpg</image>
+  </event>
+  <event>
+    <id>1748094499511</id>
+    <title>Küp Doğaçlama Tiyatro</title>
+    <description>Küp Dogaçlama Tiyatro,İzmir Performance Hall sahnesinde!</description>
+    <date>2025-05-28</date>
+    <time>20:30</time>
+    <location>İzmir Performance Hall, İzmir</location>
+    <type>Tiyatro</type>
+    <capacity>250</capacity>
+    <remainingCapacity>250</remainingCapacity>
+    <price>450</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/5/kup-dogaclama-tiyatro-256655.jpg</image>
+  </event>
+  <event>
+    <id>1748094560109</id>
+    <title>Şıngır Şıngır Beyoğlu</title>
+    <description>Dram, trajedi ve yaşanmışlıklar hepsi aynı sahnede, muhteşem bir akış ve uzun süre etkisinden çıkamayacağınız bir sohbetle anlatılıyor. Ağlatıyor… güldürüyor.</description>
+    <date>2025-05-29</date>
+    <time>20:30</time>
+    <location>Bostanlı Suat Taşer Tiyatrosu, İzmir</location>
+    <type>Tiyatro</type>
+    <capacity>250</capacity>
+    <remainingCapacity>250</remainingCapacity>
+    <price>500</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/4/ali-poyrazoglu-singir-singir-beyoglu-255455.png</image>
+  </event>
+  <event>
+    <id>1748094624613</id>
+    <title>Aydınlıkevler</title>
+    <description>Yaşamak, zemheriye ve yokluğa direnmek ve Amerika’yla baş etmek üzerine dar gelirli ama zengin bir öykü… Burası Aydınlıkevler ve babaannem Amerika’ya karşı!!!</description>
+    <date>2025-06-01</date>
+    <time>21:00</time>
+    <location>İzmir Kültürpark Açıkhava , İzmir</location>
+    <type>Tiyatro</type>
+    <capacity>300</capacity>
+    <remainingCapacity>300</remainingCapacity>
+    <price>500</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/4/aydinlikevler-253845.png</image>
+  </event>
+  <event>
+    <id>1748094735268</id>
+    <title>Selda Bağcan</title>
+    <description>Selda Bağcan, Bayhan Müzik organizasyonuyla 31 Mayıs akşamı Congresium Ankara Sahnesi'nde...
+</description>
+    <date>2025-05-31</date>
+    <time>21:00</time>
+    <location>Congresium Ankara, Ankara</location>
+    <type>Konser</type>
+    <capacity>200</capacity>
+    <remainingCapacity>200</remainingCapacity>
+    <price>300</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/4/selda-bagcan-255045.jpg</image>
+  </event>
+  <event>
+    <id>1748094787332</id>
+    <title>Derya Bedavacı</title>
+    <description>Derya Bedavacı, 31 Mayıs akşamı Jolly Joker Ankara sahnesinde.</description>
+    <date>2025-05-31</date>
+    <time>21:00</time>
+    <location>Jolly Joker Ankara, Ankara</location>
+    <type>Konser</type>
+    <capacity>350</capacity>
+    <remainingCapacity>350</remainingCapacity>
+    <price>500</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/4/derya-bedavaci-255048.jpg</image>
+  </event>
+  <event>
+    <id>1748094845357</id>
+    <title>90lar Türkçe Pop Partisi</title>
+    <description>90lar Türkçe Pop Partisi, 7 Haziran'da, IF Performance Hall sahnesinde!</description>
+    <date>2025-06-07</date>
+    <time>21:00</time>
+    <location>IF Performance Hall, Ankara</location>
+    <type>Konser</type>
+    <capacity>350</capacity>
+    <remainingCapacity>350</remainingCapacity>
+    <price>600</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/5/90lar-turkce-pop-partisi-256332.jpg</image>
+  </event>
+  <event>
+    <id>1748094950909</id>
+    <title>Ruh Öküzüm</title>
+    <description>Kadın - Erkek ilişkileri üzerine tatlı bir komedi hikayesi olan bu komedi oyunu ile hem çok eğlenecek, hem de kendinizden çok şey bulacaksınız!</description>
+    <date>2025-06-01</date>
+    <time>20:00</time>
+    <location>Yıldız Kenter Tiyatro Salonu, Ankara</location>
+    <type>Tiyatro</type>
+    <capacity>350</capacity>
+    <remainingCapacity>350</remainingCapacity>
+    <price>500</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/5/ruh-okuzum-255980.png</image>
+  </event>
+  <event>
+    <id>1748095019999</id>
+    <title>Fehim Paşa Konağı</title>
+    <description>1908 eski İstanbul Sultan Abdulhamit dönemi, İttihat Terakkiciler ile istibdatçılar arasındaki mücadele anlatılırken Fehim paşanın kızı Mihriban ile eski kabadayı Yedi Bela Rasim’in oğlu Yusuf’un aşkı sazlı sözlü rakslı eğlenceli neşeli bir dille seyirciye sunuluyor. Oyun aynı zamanda artık maalesef unutulmaya yüz tutan geleneksel tiyatromuzun orta oyunu, meddah ve gölge oyunu gibi motifleride seyircimize hatırlatılıyor.</description>
+    <date>2025-06-04</date>
+    <time>20:00</time>
+    <location>Actor Studio Arcadium AVM, Ankara</location>
+    <type>Tiyatro</type>
+    <capacity>300</capacity>
+    <remainingCapacity>300</remainingCapacity>
+    <price>500</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/4/fehim-pasa-konagi-253344.jpg</image>
+  </event>
+  <event>
+    <id>1748095077776</id>
+    <title>Fosforlu Cevriye</title>
+    <description>Anne babasını tanımadığı için gökteki yıldızlardan doğduğuna inanan, denizin kucağında bir sokak çocuğu olarak büyüyen, Galata mevkiinde karnını doyurabilmek için “icra-i sanat” eyleyen Cevriye, sıradan bir sokak kızı değil aslında İstanbul sokaklarının ta kendisidir.
+Hastalık ve soğuktan ölüme yaklaştığı o gece, karşısına çıkan esrarengiz bir Adam sayesinde hayata ve kara sevdaya tutunur. Cevriye’nin daha önce tanıdığı erkeklere hiç benzemeyen ve ona “siz” diye hitap eden bu Adam aslında gizli yaşayan bir idam mahkûmudur. Cevriye onu tanıdığı günden sonra artık bambaşka bir “insan” olmuştur.
+Hapis, sürgün, aradan geçen zaman ve türlü belalara rağmen bu aşktan vazgeçmeyen Cevriye, sevdiği için her şeyi göze alacaktır.</description>
+    <date>2025-06-13</date>
+    <time>20:00</time>
+    <location>Yıldız Kenter Tiyatro Salonu, Ankara</location>
+    <type>Tiyatro</type>
+    <capacity>350</capacity>
+    <remainingCapacity>350</remainingCapacity>
+    <price>500</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/5/fosforlu-cevriye-256769.png</image>
+  </event>
+  <event>
+    <id>1748095190391</id>
+    <title>Ruh Öküzüm</title>
+    <description>Kadın - Erkek ilişkileri üzerine tatlı bir komedi hikayesi olan bu komedi oyunu ile hem çok eğlenecek, hem de kendinizden çok şey bulacaksınız!</description>
+    <date>2025-06-04</date>
+    <time>20:00</time>
+    <location>BAOB Sahne, Bursa</location>
+    <type>Tiyatro</type>
+    <capacity>350</capacity>
+    <remainingCapacity>350</remainingCapacity>
+    <price>500</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/4/ruh-okuzum-253347.png</image>
+  </event>
+  <event>
+    <id>1748095267124</id>
+    <title>Aşk Biter Mi ?</title>
+    <description>Bir kadın ve bir erkek...
+
+Bir geçmişleri, bir hiç geçmemişleri ve bir de tartıştıkları gelecekleri var.
+
+Erkek ve kadın karşılaşıyor ve yolculuk başlıyor.
+
+İmkansız şiirler ve şarkılar işte bu iki kişinin ortasına düşüyor...</description>
+    <date>2025-06-23</date>
+    <time>21:00</time>
+    <location>Bursa Açıkhava Tiyatrosu, Bursa</location>
+    <type>Tiyatro</type>
+    <capacity>350</capacity>
+    <remainingCapacity>350</remainingCapacity>
+    <price>500</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/4/ask-biter-mi-255938.jpg</image>
+  </event>
+  <event>
+    <id>1748095370416</id>
+    <title>Kuğu Gölü Balesi</title>
+    <description>Bolşoy Tiyatrosu solisti Gediminas Taranda tarafından 1994 yılında kurulan dünya çapında ünlü dansçılarla işbirliği yaparak büyük başarılar elde eden ve pek çok uluslararası festivalde yer alan ‘’The Imperial Russian Ballet Company’’, Çaykovski’nin unutulmaz başyapıtı ‘’Swan Lake-Kuğu Gölü Balesi’’ ile Ment Event-Armoni organizasyonunda Türkiye Turnesi kapsamında ilk kez izleyicisiyle buluşuyor.</description>
+    <date>2025-06-25</date>
+    <time>21:00</time>
+    <location>Bursa Açıkhava Tiyatrosu, Bursa</location>
+    <type>Tiyatro</type>
+    <capacity>250</capacity>
+    <remainingCapacity>250</remainingCapacity>
+    <price>500</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/5/the-imperial-russian-ballet-company-swan-lake-kugu-golu-balesi-256049.jpg</image>
+  </event>
+  <event>
+    <id>1748095426138</id>
+    <title>Seninle Evlenir Miyim?</title>
+    <description>Haldun Dormen süpervizörlüğünde uzun yıllar sahnelenen ödüllü komedi sahnede.
+
+Melda Gür ve Barbaros Uzunöner’in rol aldığı mizah dozu yüksek komedi.
+
+Tanışma, sevgili olma, evlenme kararı alma, düğün hazırlıkları, düğün, evlilik hayatı gibi konuların işlendiği bir ilişkiler komedisi.
+
+Türkiye’nin en çok sahnelenen oyunlarından biri olan SENİNLE EVLENİR MİYİM? güldürmeye devam ediyor.</description>
+    <date>2025-07-02</date>
+    <time>20:30</time>
+    <location>BAOB Sahne, Bursa</location>
+    <type>Tiyatro</type>
+    <capacity>250</capacity>
+    <remainingCapacity>250</remainingCapacity>
+    <price>450</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/5/seninle-evlenir-miyim-256420.jpg</image>
+  </event>
+  <event>
+    <id>1748095718626</id>
+    <title>90lar Türkçe Pop Fest</title>
+    <description>90lar Türkçe Pop Fest , 1 Haziran'da Podyum Park Yaşam ve Eğlence Merkezi'nde sizlerle...
+
+Sanatçılar;
+
+Çelik
+Yonca Evcimik
+Ümit Sayın
+Reyhan Karaca
+Mansur Ark
+Dj Hakan Küfündür</description>
+    <date>2025-06-01</date>
+    <time>16:30</time>
+    <location>Podyum Park Yaşam ve Eğlence Merkezi, Bursa</location>
+    <type>Konser</type>
+    <capacity>300</capacity>
+    <remainingCapacity>300</remainingCapacity>
+    <price>500</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/4/90lar-turkce-pop-ile-yaza-merhaba-255459.jpg</image>
+  </event>
+  <event>
+    <id>1748095770701</id>
+    <title>Dj Samet Kurtuluş</title>
+    <description>Dj Samet Kurtuluş - Balkan Party Bayram Özel, 7 Haziran akşamı Jolly Joker Bursa sahnesinde.
+</description>
+    <date>2025-06-07</date>
+    <time>21:00</time>
+    <location>Jolly Joker Bursa, Bursa</location>
+    <type>Konser</type>
+    <capacity>250</capacity>
+    <remainingCapacity>250</remainingCapacity>
+    <price>400</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/4/dj-samet-kurtulus-balkan-party-bayram-ozel-254872.jpg</image>
+  </event>
+  <event>
+    <id>1748095817876</id>
+    <title>Aşkın Nur Yengi Senfonik</title>
+    <description>Aşkın Nur Yengi’den Senfonik Bir Buluşma; Türkiye Turnesi Başlıyor.
+
+Türk pop müziğinin en güçlü kadın yorumcularından, müzisyen Aşkın Nur Yengi, müziğini bu kez senfonik düzenlemelerle dinleyicisi ile buluşturuyor.</description>
+    <date>2025-06-10</date>
+    <time>21:00</time>
+    <location>Bursa Açıkhava Tiyatrosu, Bursa</location>
+    <type>Konser</type>
+    <capacity>300</capacity>
+    <remainingCapacity>300</remainingCapacity>
+    <price>650</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/4/askin-nur-yengi-senfonik-255215.jpg</image>
+  </event>
+  <event>
+    <id>1748095864454</id>
+    <title>Semicenk – Bir Varmış Bir Yokmuş</title>
+    <description>Semicenk, 13 Haziran akşamı Bursa Açıkhava Tiyatrosu sahnesinde sizlerle.
+
+Türk pop müziğinin sevilen ismi Semicenk, ''Bir Varmış Bir Yokmuş'' turnesiyle sevenleriyle buluşuyor!</description>
+    <date>2025-06-13</date>
+    <time>21:00</time>
+    <location>Bursa Açıkhava Tiyatrosu, Bursa</location>
+    <type>Konser</type>
+    <capacity>300</capacity>
+    <remainingCapacity>300</remainingCapacity>
+    <price>750</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/4/semicenk-bir-varmis-bir-yokmus-255466.jpg</image>
+  </event>
+  <event>
+    <id>1748096182486</id>
+    <title>Seyfi Bey</title>
+    <description>30 yıl önce Huysuz Virjin'in metin yazarı olarak kariyerine başlayan Armağan Çağlayan'ın ustasına hayat verdiği oyun, Celal Kadri Kınoğlu’nun rejisiyle, Atlantis Yapım Organizasyonu ile 1 Haziran akşamı Antalya Açıkhava sahnesinde...
+</description>
+    <date>2025-06-01</date>
+    <time>21:00</time>
+    <location>Antalya Açıkhava, Antalya</location>
+    <type>Tiyatro</type>
+    <capacity>250</capacity>
+    <remainingCapacity>250</remainingCapacity>
+    <price>500</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/4/seyfi-bey-253844.png</image>
+  </event>
+  <event>
+    <id>1748096227652</id>
+    <title>Drakula</title>
+    <description>Bram Stoker’ın ölümsüz eseri Drakula romanındaki karakterlerden hareketle Okan Bayülgen’in yeniden kaleme aldığı ve yönettiği oyunda, tarihin en ünlü fantastik karakterlerinden biri olan Drakula’ya Okan Bayülgen, vampir avcısı Van Helsing rolüne ise Hayko Cepkin hayat verecek. 
+</description>
+    <date>2025-06-23</date>
+    <time>21:00</time>
+    <location>Antalya Açıkhava, Antalya</location>
+    <type>Tiyatro</type>
+    <capacity>300</capacity>
+    <remainingCapacity>300</remainingCapacity>
+    <price>650</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/4/drakula-255936.jpg</image>
+  </event>
+  <event>
+    <id>1748096280591</id>
+    <title>Notre Dame'ın Kamburu</title>
+    <description>Notre Dame'ın Kamburu, seyircisi ile buluşmaya devam ediyor..
+</description>
+    <date>2025-07-01</date>
+    <time>20:30</time>
+    <location>Konyaaltı Nazım Hikmet Kongre Merkezi, Antalya</location>
+    <type>Tiyatro</type>
+    <capacity>400</capacity>
+    <remainingCapacity>400</remainingCapacity>
+    <price>750</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/5/notre-damein-kamburu-256250.jpg</image>
+  </event>
+  <event>
+    <id>1748096449602</id>
+    <title>Kuğu Gölü Balesi</title>
+    <description>Bolşoy Tiyatrosu solisti Gediminas Taranda tarafından 1994 yılında kurulan dünya çapında ünlü dansçılarla işbirliği yaparak büyük başarılar elde eden ve pek çok uluslararası festivalde yer alan ‘’The Imperial Russian Ballet Company’’, Çaykovski’nin unutulmaz başyapıtı ‘’Swan Lake-Kuğu Gölü Balesi’’ ile Ment Event-Armoni organizasyonunda Türkiye Turnesi kapsamında ilk kez izleyicisiyle buluşuyor.
+</description>
+    <date>2025-06-22</date>
+    <time>21:00</time>
+    <location>Antalya Açıkhava, Antalya</location>
+    <type>Tiyatro</type>
+    <capacity>400</capacity>
+    <remainingCapacity>400</remainingCapacity>
+    <price>500</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/4/the-imperial-russian-ballet-company-swan-lake-kugu-golu-balesi-255891.jpg</image>
+  </event>
+  <event>
+    <id>1748096638134</id>
+    <title>Aynur</title>
+    <description>Aynur, 2 Haziran akşamı Antalya Açıkhava sahnesinde sizlerle..
+</description>
+    <date>2025-06-02</date>
+    <time>21:00</time>
+    <location>Antalya Açıkhava, Antalya</location>
+    <type>Konser</type>
+    <capacity>400</capacity>
+    <remainingCapacity>400</remainingCapacity>
+    <price>700</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/4/aynur-254206.jpg</image>
+  </event>
+  <event>
+    <id>1748096752160</id>
+    <title>Can Ozan</title>
+    <description>Can Ozan, 11 Haziran'da Holly Stone Antalya sahnesinde sizlerle..
+</description>
+    <date>2025-06-11</date>
+    <time>22:00</time>
+    <location>Holly Stone Antalya, Antalya</location>
+    <type>Konser</type>
+    <capacity>350</capacity>
+    <remainingCapacity>350</remainingCapacity>
+    <price>600</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/5/can-ozan-256399.jpg</image>
+  </event>
+  <event>
+    <id>1748096838130</id>
+    <title>Dolu Kadehi Ters Tut</title>
+    <description>Dolu Kadehi Ters Tut, 13 Haziran akşamı Atlantis Yapım organizasyonu ile Antalya Açıkhava sahnesinde seyircisi ile bir araya geliyor...</description>
+    <date>2025-06-13</date>
+    <time>21:00</time>
+    <location>Antalya Açıkhava, Antalya</location>
+    <type>Konser</type>
+    <capacity>300</capacity>
+    <remainingCapacity>300</remainingCapacity>
+    <price>650</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/4/dolu-kadehi-ters-tut-255469.jpg</image>
+  </event>
+  <event>
+    <id>1748097020793</id>
+    <title>Bayhan</title>
+    <description>Bayhan, şehrine geliyor!
+</description>
+    <date>2025-06-27</date>
+    <time>21:00</time>
+    <location>Antalya Açıkhava, Antalya</location>
+    <type>Konser</type>
+    <capacity>300</capacity>
+    <remainingCapacity>300</remainingCapacity>
+    <price>800</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/5/bayhan-256800.png</image>
+  </event>
+  <event>
+    <id>1748097133671</id>
+    <title>Ölün Bizi Ayırana Dek</title>
+    <description>Cansu ve Serdar; evlilik hayatı canlarına tak etmiş ve boşanmaya karar vermiş bir çifttir. Boşanmadan bir gece önce, kendilerine düzenlenen bir “kutlama” partisi ardından, sabah uyandıklarında ise birbirlerini sızmış olarak aynı yatakta bulurlar. Bir gece öncesine dair çok az şey hatırlayan Cansu ve Serdar’ı bekleyen asıl sürpriz salondaki kanepede uzanmakta olan cesettir. Ne yapacağını bilemeyen çiftimiz bir yandan “Hangimiz katil?” sorusuna yanıt ararken bir yandan da ilişkilerini, evliliklerini, geçmişlerini, kendilerini bulundukları noktaya taşıyan olayları yeniden değerlendirecek ve karşılarına çıkacak bambaşka sürprizlerle mücadele etmeye çalışacaktır.</description>
+    <date>2025-06-28</date>
+    <time>20:00</time>
+    <location>Necip Fazıl Kısakürek Kültür Merkezi, Erzurum</location>
+    <type>Tiyatro</type>
+    <capacity>250</capacity>
+    <remainingCapacity>249</remainingCapacity>
+    <price>400</price>
+    <image>https://ifyazilim.nyc3.cdn.digitaloceanspaces.com/EtkIO/PublicDepo/EtkinlikAfis/2025/5/olun-bizi-ayirana-dek-256137.jpg</image>
+  </event>
+  <event>
+    <id>1748097322958</id>
+    <title>Buz Adası Serbest Seans</title>
+    <description>Hadi sen de patenle!
+
+Zeytinburnu Buz Adası’nın alt ve üst katta bulunan olimpik pistlerinde serbest seanslara katılabilir, 40 dakika boyunca buzun keyfini çıkarabilirsiniz.</description>
+    <date>2025-05-31</date>
+    <time>16:00</time>
+    <location>Buz Adası, İstanbul</location>
+    <type>Spor</type>
+    <capacity>100</capacity>
+    <remainingCapacity>100</remainingCapacity>
+    <price>500</price>
+    <image>https://ippasso.mediatriple.net/event/13022025110358-img_2451.png</image>
+  </event>
+  <event>
+    <id>1748097396590</id>
+    <title>Mega Fight Arena Series 3</title>
+    <description>Boksun tartışmasız efsanesi Avni Yıldırım ve Kickboksun efsahne ismi Avatar Atakan kendi evinde seyircisinin karşısına çıkıyor... Boks ve Kickboks'un yıldızları Sinan Erdem Spor salonunda bir kez daha karşı karşıya gelecek. Geceye damga vuracak konserler ve eşsiz showları için Mega Fight Arena hazırlıklara başladı... Soluksuz izleyeceğiniz bu gecede Avni Yıldırım, Batuhan Çiftçi, Serenay Çetin, Mücahit Kulak, Bünyamin Kulak, Hüseyin Can Polat, Sinan Çağala vb sporcular bir kez daha seyirci karşısında.. Türkiye'den bir çok ünlü ismin katılacağı bu geceye tanıklık etmek için hazır olun...</description>
+    <date>2025-06-26</date>
+    <time>20:00</time>
+    <location>Sinan Erdem Spor Salonu, İstanbul</location>
+    <type>Spor</type>
+    <capacity>300</capacity>
+    <remainingCapacity>300</remainingCapacity>
+    <price>2750</price>
+    <image>https://ippasso.mediatriple.net/event/14052025143607-passo_banner_1080x1920_-_sanatcisiz_1.jpg</image>
+  </event>
+  <event>
+    <id>1748097655031</id>
+    <title>Vendetta Fight Nights</title>
+    <description>Heyecanın ve adrenalinin zirveye ulaşacağı, Türkiye'nin ve Avrupa'nın en büyük MMA etkinliginde sizde yerinizi mutlaka alın.
+Birbirinden başarılı Türk sporcuların yanı sıra dünyanın en prestijli organizasyonlarından gelen değerli isimlerin muhteşem performanslarını canlı olarak izleme fırsatını kaçırmayın.
+</description>
+    <date>2025-05-28</date>
+    <time>20:00</time>
+    <location>Gazi Mustafa Kemal Atatürk Spor Kompleksi, Ankara</location>
+    <type>Spor</type>
+    <capacity>400</capacity>
+    <remainingCapacity>400</remainingCapacity>
+    <price>1000</price>
+    <image>https://www.biletix.com/static/images/live/event/eventimages/wide/4GFC1-vendetta-wide.jpg</image>
+  </event>
+  <event>
+    <id>1748097769002</id>
+    <title>European Aquatics Diving Championships</title>
+    <description>European Aquatics olarak sizleri 22-28 Mayıs 2025 tarihleri arasında Türkiye'nin güzel şehri Antalya'da sekizincisi düzenlenecek olan Avrupa Su Sporları Dalış Şampiyonası'nda ağırlamaktan büyük heyecan duyuyoruz. Bu yarışma, sporumuzun tarihinde önemli bir kilometre taşına daha işaret ediyor ve spor altyapısında mükemmelliği örnekleyen bir tesis olan olağanüstü Gloria Sports Arena'da ev sahipliği yapmaktan mutluluk duyuyoruz.
+</description>
+    <date>2025-06-28</date>
+    <time>17:00</time>
+    <location>Gloria Sports Arena, Antalya</location>
+    <type>Spor</type>
+    <capacity>150</capacity>
+    <remainingCapacity>150</remainingCapacity>
+    <price>500</price>
+    <image>https://www.biletix.com/static/images/live/event/eventimages/wide/champ476742525-13-5-25-suwide.jpg</image>
+  </event>
+  <event>
+    <id>1748097830745</id>
+    <title>Tofaş - Bahçeşehir Koleji</title>
+    <description>Tofaş Basketbol Takımı, Türkiye Sigorta Basketbol Süper Ligi play-off çeyrek final serisi ilk maçında Bursa’da Bahçeşehir Koleji ile karşı karşıya geliyor.</description>
+    <date>2025-06-29</date>
+    <time>20:30</time>
+    <location>Tofaş Spor Salonu, Bursa</location>
+    <type>Spor</type>
+    <capacity>300</capacity>
+    <remainingCapacity>300</remainingCapacity>
+    <price>500</price>
+    <image>https://www.biletix.com/static/images/live/event/eventimages/4YX12ust.jpg</image>
+  </event>
+  <event>
+    <id>1748097945165</id>
+    <title>Hamlet</title>
+    <description>Shakespeare'in ölümsüz eseri Hamlet, modern bir yorumla sahnede.</description>
+    <date>2025-05-29</date>
+    <time>20:00</time>
+    <location>Necip Fazıl Kısakürek Kültür Merkezi, Erzurum</location>
+    <type>Tiyatro</type>
+    <capacity>300</capacity>
+    <remainingCapacity>299</remainingCapacity>
+    <price>500</price>
+    <image>https://cdn.pixabay.com/photo/2015/01/09/17/34/opera-594592_960_720.jpg</image>
+  </event>
+  <event>
+    <id>1748098030265</id>
+    <title>Tahsin Hasoğlu</title>
+    <description>Sosyal medyada yayınladığı videolarla büyük beğeni toplayan BKM Mutfak komedyenlerinden Tahsin Hasoğlu, kahkaha dolu stand-up gösterisiyle karşınızda.</description>
+    <date>2025-06-21</date>
+    <time>20:00</time>
+    <location>Necip Fazıl Kısakürek Kültür Merkezi, Erzurum</location>
+    <type>Tiyatro</type>
+    <capacity>300</capacity>
+    <remainingCapacity>299</remainingCapacity>
+    <price>650</price>
+    <image>https://cdn.bubilet.com.tr/cdn-cgi/image/width=1024,quality=auto,format=auto/files/Etkinlik/tahsin-hasoglu-49575.webp</image>
+  </event>
+  <event>
+    <id>1748098287084</id>
+    <title>BHS 3</title>
+    <description>Dünyanın en iyi smaç basan isimleri ve Amerika'nın en popüler sokak basketbolcularının Türkiye'nin sokak basketbolcularına karşı mücadele edeceği BHS III etkinliği Sneaks Up ana partnerliğinde Mustafa Kemal Atatürk Spor Salonu'nda gerçekleşiyor! Türkiye tarihine geçecek bu etkinlikte mini konserler, dans gösterileri, smaç yarışması, üçlük yarışması ve All-Star tadında eğlenceli etkinlikler sizleri bekliyor. </description>
+    <date>2025-07-26</date>
+    <time>19:00</time>
+    <location>Mustafa Kemal Atatürk Karşıyaka Spor Salonu, İzmir</location>
+    <type>Spor</type>
+    <capacity>300</capacity>
+    <remainingCapacity>300</remainingCapacity>
+    <price>550</price>
+    <image>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ16tx4esM6eM3aPevDe5tAAtQHYtQariTENA&amp;s</image>
+  </event>
+  <event>
+    <id>1748098438431</id>
+    <title>Bursaspor YÖRSAN - Türk Telekom</title>
+    <description>Bursaspor YÖRSAN - Türk Telekom basketbol maçı.</description>
+    <date>2025-05-31</date>
+    <time>18:00</time>
+    <location>Tofaş Spor Salonu, Bursa</location>
+    <type>Spor</type>
+    <capacity>300</capacity>
+    <remainingCapacity>300</remainingCapacity>
+    <price>550</price>
+    <image>https://b6s54eznn8xq.merlincdn.net/Uploads/Films/bursaspor-yorsan-turk-telekom-play-in-202551913501386806a1860f6473bb81ffcb23fd6bc3d.png</image>
+  </event>
+  <event>
+    <id>1748098573049</id>
+    <title>Mission: Impossible - Son Hesaplaşma</title>
+    <description>Mission: Impossible - Ölümcül Hesaplaşma Birinci Bölüm'ün bıraktığı yerden devam edecek olan film, Ethan Hunt ve ekibinin yanlış ellerde dünyanın sonunu getirebilecek bir AI programı olan The Entity'ye ulaşma mücadelesini anlatıyor.</description>
+    <date>2025-05-29</date>
+    <time>19:00</time>
+    <location>Scarlett Sineması, Erzurum</location>
+    <type>Sinema</type>
+    <capacity>150</capacity>
+    <remainingCapacity>149</remainingCapacity>
+    <price>400</price>
+    <image>data:image/jpeg;base64,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</image>
+  </event>
+  <event>
+    <id>1748098665807</id>
+    <title>Lilo ve Stiç</title>
+    <description>Lilo ve Stiç, yalnız bir Hawaiili kız ile onun parçalanmış ailesini onarmaya yardım eden tuhaf bir uzaylının hikâyesini anlatıyor.</description>
+    <date>2025-06-02</date>
+    <time>18:00</time>
+    <location>Scarlett Sineması, Erzurum</location>
+    <type>Sinema</type>
+    <capacity>150</capacity>
+    <remainingCapacity>149</remainingCapacity>
+    <price>400</price>
+    <image>https://b6s54eznn8xq.merlincdn.net/Uploads/Films/lilo-ve-stic-2025522229478d7cc61f0f3c4b7cbf05f563038ea463.jpg</image>
+  </event>
+  <event>
+    <id>1748098710193</id>
+    <title>Son Durak: Kan Bağı</title>
+    <description>Son Durak: Kan Bağı, sürekli tekrar eden şiddet dolu bir kabusla uyanan üniversite öğrencisi Stefanie’nin hikâyesini konu alıyor. Bu korkunç döngüyü kırmak ve ailesini bekleyen dehşet verici sondan kurtarabilecek tek kişinin izini bulmaya çalışan Stefanie’nin işi sandığından çok daha zor olacaktır.</description>
+    <date>2025-06-05</date>
+    <time>19:30</time>
+    <location>Scarlett Sineması, Erzurum</location>
+    <type>Sinema</type>
+    <capacity>150</capacity>
+    <remainingCapacity>149</remainingCapacity>
+    <price>400</price>
+    <image>https://b6s54eznn8xq.merlincdn.net/Uploads/Films/son-durak-kan-bagi-2025430123383e666ffd4bc24b56834f338fd45dba8c.jpg</image>
+  </event>
+  <event>
+    <id>1748098784339</id>
+    <title>Örümcek-Adam 3</title>
+    <description>Efsanevi Marvel Comics dizisine dayanan filmde, Peter Parker nihayet Mary Jane'e duyduğu tutku ile süper kahramanlık görevleri arasındaki dengeyi kurar. Ancak, ufukta belirmeye başlayan bir fırtına vardır. Peter'ın Örümcek Adam kostümü birden bire değişip siyaha dönüşerek güçlerini pekiştirmeye başlayınca, Peter da değişmeye başlar. Kostümün etkisi altındaki Peter, kibirli ve kendine aşırı güvenli biri olur; en değer verdiği kişileri ihmal etmeye başlar. Bugüne dek en korkulan iki kötü kahraman Kumadam ve Venom benzersiz güçler edinip, intikam ateşiyle yanarken, Peter en büyük savaşını kendi içinde yapmaktadır.</description>
+    <date>2025-05-30</date>
+    <time>20:00</time>
+    <location>CINEMATICA - Metropol İstanbul, İstanbul</location>
+    <type>Sinema</type>
+    <capacity>200</capacity>
+    <remainingCapacity>200</remainingCapacity>
+    <price>450</price>
+    <image>https://b6s54eznn8xq.merlincdn.net/Uploads/Films/orumcek-adam-3-20255816181869a7f414f1e14c779ba4373e3f86dee3.jpg</image>
+  </event>
+  <event>
+    <id>1748098851211</id>
+    <title>Bir Minecraft Filmi</title>
+    <description>Ünlü video oyun uyarlaması Minecraft, gizemli bir geçitten aniden Overworld'e çekilen bir grup uyumsuzun bu diyarda yaşadıklarını konu ediniyor.</description>
+    <date>2025-06-04</date>
+    <time>18:45</time>
+    <location>CINEMATICA - Metropol İstanbul, İstanbul</location>
+    <type>Sinema</type>
+    <capacity>200</capacity>
+    <remainingCapacity>200</remainingCapacity>
+    <price>450</price>
+    <image>https://b6s54eznn8xq.merlincdn.net/Uploads/Films/bir-minecraft-filmi-20253211317126bc4d00c623d4570be019b794bd05724.jpg</image>
+  </event>
+  <event>
+    <id>1748098971363</id>
+    <title>Ruhların Kaçışı</title>
+    <description>Ruhların Kaçışı, Japon animasyon üstadı Hayao Miyazaki’nin en değerli yapıtlarından biri. Film, küçük Chihiro ve ailesinin yeni bir kasabaya taşınmalarıyla açılır. Yolculuk esnasında yolda gördükleri bir tünele dikkat eden aile, tünelin içerisinden geçtiklerinde karşılaştıkları fantastik dünyanın içerisinde büyülenirler. Ancak bu kasabada yolunda gitmeyen bir şeyler vardır, bu büyü kısa bir zaman sonra bozulacaktır. Ailesini kaybeden küçük Chihiro, babasını kurtarmak için korku dolu bir maceraya atılacaktır.</description>
+    <date>2025-06-08</date>
+    <time>19:00</time>
+    <location>Kült Kavaklıdere, Ankara</location>
+    <type>Sinema</type>
+    <capacity>150</capacity>
+    <remainingCapacity>150</remainingCapacity>
+    <price>400</price>
+    <image>https://b6s54eznn8xq.merlincdn.net/Uploads/Films/ruhlarin-kacisi-20242231146334b2c4044997345ff96aef99717fe891d.jpg</image>
+  </event>
+  <event>
+    <id>1748099076746</id>
+    <title>ŞamPİYONlar</title>
+    <description>Film, yaz tatilinde ailesiyle dedesinin yanına giden Efe'nin satrançla tanışmasını konu ediniyor.
+
+ŞamPİYONlar filmini sinemada izlemek için hemen biletini al!</description>
+    <date>2025-05-28</date>
+    <time>19:00</time>
+    <location>Cinepoll Kemalpaşa Sineması, İzmir</location>
+    <type>Sinema</type>
+    <capacity>200</capacity>
+    <remainingCapacity>200</remainingCapacity>
+    <price>450</price>
+    <image>https://b6s54eznn8xq.merlincdn.net/Uploads/Films/sampiyonlar-202512113137b9e230f5a3914a138a6170c02353acb2.jpeg</image>
+  </event>
+  <event>
+    <id>1748099121553</id>
+    <title>Yola Devam</title>
+    <description>Panah Panahi’nin yönetmenliğini yaptığı, 2021’de Cannes Film Festivalinde yarışan Yola Devam / Hit The Road bir yol hikayesini konu alıyor. Kaotik ve hassas bir aile aynı kendi aralarındaki ilişkiler gibi engebeli bir arazide yola çıkar. Yolculuk boyunca hasta köpekleri için endişelenirken, bir yandan birbirlerinin sinirlerini bozarlar. Tek sessiz kalan ailenin en büyük gizemli erkek çocuğudur.</description>
+    <date>2025-05-30</date>
+    <time>18:45</time>
+    <location>Karaca Sineması, İzmir</location>
+    <type>Sinema</type>
+    <capacity>200</capacity>
+    <remainingCapacity>200</remainingCapacity>
+    <price>450</price>
+    <image>https://b6s54eznn8xq.merlincdn.net/Uploads/Films/yola-devam-202253014249.jpg</image>
+  </event>
+  <event>
+    <id>1748099169792</id>
+    <title>Üç Renk: Mavi</title>
+    <description>Kieslowski’nin kült üçlemesi Üç Renk’in ilk filmi olan Mavi’de, Juliette Binoche’un canlandırdığı Julie, kocasının ve çocuğunun ölümünden sonra hayatına nasıl döneceğini bilemez.</description>
+    <date>2025-06-26</date>
+    <time>20:00</time>
+    <location>Karaca Sineması, İzmir</location>
+    <type>Sinema</type>
+    <capacity>200</capacity>
+    <remainingCapacity>200</remainingCapacity>
+    <price>450</price>
+    <image>https://b6s54eznn8xq.merlincdn.net/Uploads/Films/uc-renk-mavi-202472516920655d0e97b08f49eca394a215a42826ae.jpg</image>
+  </event>
+  <event>
+    <id>1748099209766</id>
+    <title>Leon: Sevginin Gücü</title>
+    <description>Leon: Sevginin Gücü, masum bir kız ve bir katilin hikayesini anlatıyor. Onların birbirlerinden başka kaybedecek hiçbir şeyleri yok. Erkek duygusuzca öldürüyor. Zayıf noktasını sadece 12 yaşındaki bir kız biliyor.12 yaşında New York’ta yaşayan Mathilda, üvey ailesinin yanında sevimsiz bir yaşamı paylaşmaktadır. Babası, iki taraflı oynayan bozulmuş polis için uyuşturucu saklamaktadır. Mathilda’yı kaçıp gitmekten tek alıkoyan küçük erkek kardeşidir. Bir gün, tüm ailesinin katledeildiği zaman alışverişte olan Mathilda şans eseri hayatta kalır ve en çok ihtiyacı olduğu sırada Léon’un dairesine saklanarak kendini kurtarır.</description>
+    <date>2025-05-27</date>
+    <time>19:00</time>
+    <location>Karaca Sineması, İzmir</location>
+    <type>Sinema</type>
+    <capacity>200</capacity>
+    <remainingCapacity>200</remainingCapacity>
+    <price>450</price>
+    <image>https://b6s54eznn8xq.merlincdn.net/Uploads/Films/leon-sevginin-gucu-202552152740316f83f137594227b1bdcd3c1402fae2.JPG</image>
+  </event>
+  <event>
+    <id>1748099335862</id>
+    <title>Örümcek-Adam</title>
+    <description>Sıradan bir lise öğrencisi olan Peter Parker'ın hayatı bir gün bir örümcek tarafından ısırılmasıyla tamamen değişir. Çünkü bu örümcek sıradan bir örümcek değildir, genetik olarak özelikle geliştirilmiş, bilimsel amaçlarla kullanılan bir denektir. Öte yandan olan olmuştur ve Parker'da tuhaf değişiklikler başgöstermektedir.
+</description>
+    <date>2025-05-28</date>
+    <time>19:00</time>
+    <location>Cinetime ÖzdilekPark Bursa Nilüfer, Bursa</location>
+    <type>Sinema</type>
+    <capacity>150</capacity>
+    <remainingCapacity>150</remainingCapacity>
+    <price>450</price>
+    <image>https://b6s54eznn8xq.merlincdn.net/Uploads/Films/orumcek-adam-2025430174738d78b1b6840b4553999a4f4de0efb816.jpg</image>
+  </event>
+  <event>
+    <id>1748099374167</id>
+    <title>Örümcek-Adam 2</title>
+    <description>Sevgilisi Mary Jane'den ayrılan Peter ona gerçek kimliğini açıklayıp açıklamamak arasında kaldığı için oldukça zor bir dönem geçirmektedir. kararsızlık içine düştüğü bu esnada Mary Jane'in, patronun oğlu John'la birlikte olmaya başlaması iyice canını sıkar. Bunlara, halasının mali sıkıntıları ve hayattaki tek dostu Harry Osborne'un, babasının ölümünden kendisini sorumlu tuttuğu için Peterdan uzaklaşması onu depresyonun eşiğine getirmiştir. Bu esnada, yeni düşmanı Doktor Ahtapot'un ortaya çıkmasıyla Peter Parker'ın hayatı içinden çıkılmaz bir hal alacaktır.</description>
+    <date>2025-05-29</date>
+    <time>19:00</time>
+    <location>Cinetime ÖzdilekPark Bursa Nilüfer, Bursa</location>
+    <type>Sinema</type>
+    <capacity>150</capacity>
+    <remainingCapacity>150</remainingCapacity>
+    <price>450</price>
+    <image>https://b6s54eznn8xq.merlincdn.net/Uploads/Films/orumcek-adam-2-2025581254422286eae68b4e494bb1beebcf62ca5028.jpg</image>
+  </event>
+  <event>
+    <id>1748099444110</id>
+    <title>Örümcek-Adam 3</title>
+    <description>Efsanevi Marvel Comics dizisine dayanan filmde, Peter Parker nihayet Mary Jane'e duyduğu tutku ile süper kahramanlık görevleri arasındaki dengeyi kurar. Ancak, ufukta belirmeye başlayan bir fırtına vardır. Peter'ın Örümcek Adam kostümü birden bire değişip siyaha dönüşerek güçlerini pekiştirmeye başlayınca, Peter da değişmeye başlar. Kostümün etkisi altındaki Peter, kibirli ve kendine aşırı güvenli biri olur; en değer verdiği kişileri ihmal etmeye başlar. Bugüne dek en korkulan iki kötü kahraman Kumadam ve Venom benzersiz güçler edinip, intikam ateşiyle yanarken, Peter en büyük savaşını kendi içinde yapmaktadır.</description>
+    <date>2025-06-03</date>
+    <time>20:00</time>
+    <location>Cinetech Korupark Sinema, Bursa</location>
+    <type>Sinema</type>
+    <capacity>200</capacity>
+    <remainingCapacity>200</remainingCapacity>
+    <price>450</price>
+    <image>https://b6s54eznn8xq.merlincdn.net/Uploads/Films/orumcek-adam-3-20255816181869a7f414f1e14c779ba4373e3f86dee3.jpg</image>
+  </event>
+  <event>
+    <id>1748099513068</id>
+    <title>Kefenler</title>
+    <description>Karısının ölümünden beri bir türlü teselli bulamayan Karsh, devrim niteliğinde ve tartışmalı bir teknoloji olan GraveTech’i icat eder. Bu teknoloji sayesinde geride kalanlar, kaybettiklerinin cesetlerini kefenleri içinde gözlemleyebileceklerdir. Bir gece, aralarında Karsh’ın eşininkinin de bulunduğu birçok mezar tahrip edilir. Karsh bu eylemin faillerinin izini sürmek için yola koyulur, ancak daha büyük, daha sinsi bir komplonun şüphesi de içini kemirmektedir.</description>
+    <date>2025-06-07</date>
+    <time>17:00</time>
+    <location>Cinetech Zafer Plaza, Bursa</location>
+    <type>Sinema</type>
+    <capacity>170</capacity>
+    <remainingCapacity>170</remainingCapacity>
+    <price>450</price>
+    <image>https://b6s54eznn8xq.merlincdn.net/Uploads/Films/kefenler-2025581628242ab8963e81454afea785f2f7728e12ad.jpg</image>
+  </event>
+  <event>
+    <id>1748099586316</id>
+    <title>Stelios - Bekledim de Gelmedin</title>
+    <description>Toplumun ve kişisel zorlukların karşısında gösterdiği büyük yetenek ve direniş sayesinde her şeye rağmen hayatta kalmayı ve başarılı olmayı başaran Pontuslu bir mülteci ailesinin çocuğunun dokunaklı hikayesi. Müzik, aşk, aile, dostluk, balıkçılık, yaratıcılık, gece insanları, tutkulu hayranlar ve yoğun çatışmalar, onun hayatının mozaiğini oluşturur. Bu film, sesiyle dünyanın dört bir yanındaki Yunanlıların kalbine dokunan efsanevi şarkıcı Stelios Kazantzidis’e bir saygı duruşudur. Onu sevenler ve onu keşfetmek isteyenler için bir film.</description>
+    <date>2025-06-06</date>
+    <time>19:00</time>
+    <location>Cinetech Mall of Antalya, Antalya</location>
+    <type>Sinema</type>
+    <capacity>200</capacity>
+    <remainingCapacity>200</remainingCapacity>
+    <price>400</price>
+    <image>https://b6s54eznn8xq.merlincdn.net/Uploads/Films/stelios-bekledim-de-gelmedin-202558178550aab83f1cb3f46df92e3773e9f260733.jpg</image>
+  </event>
+  <event>
+    <id>1748099652415</id>
+    <title>Sıcak Büfe</title>
+    <description>Bir mahalle büfesinin arka planında geçen hikâyede, sıradan görünen hayatların bir gecede değişmesi konu ediniyor.</description>
+    <date>2025-05-28</date>
+    <time>18:00</time>
+    <location>Cinetime ÖzdilekPark Antalya, Antalya</location>
+    <type>Sinema</type>
+    <capacity>180</capacity>
+    <remainingCapacity>180</remainingCapacity>
+    <price>400</price>
+    <image>https://b6s54eznn8xq.merlincdn.net/Uploads/Films/sicak-bufe-20255813462df6c748aada48f3be1a57c80cd790ac.jpg</image>
+  </event>
+  <event>
+    <id>1748099704006</id>
+    <title>Örümcek-Adam 2</title>
+    <description>Sevgilisi Mary Jane'den ayrılan Peter ona gerçek kimliğini açıklayıp açıklamamak arasında kaldığı için oldukça zor bir dönem geçirmektedir. kararsızlık içine düştüğü bu esnada Mary Jane'in, patronun oğlu John'la birlikte olmaya başlaması iyice canını sıkar. Bunlara, halasının mali sıkıntıları ve hayattaki tek dostu Harry Osborne'un, babasının ölümünden kendisini sorumlu tuttuğu için Peterdan uzaklaşması onu depresyonun eşiğine getirmiştir. Bu esnada, yeni düşmanı Doktor Ahtapot'un ortaya çıkmasıyla Peter Parker'ın hayatı içinden çıkılmaz bir hal alacaktır.
+</description>
+    <date>2025-06-08</date>
+    <time>19:00</time>
+    <location>Cinetime ÖzdilekPark Antalya, Antalya</location>
+    <type>Sinema</type>
+    <capacity>180</capacity>
+    <remainingCapacity>180</remainingCapacity>
+    <price>400</price>
+    <image>https://b6s54eznn8xq.merlincdn.net/Uploads/Films/orumcek-adam-2-2025581254422286eae68b4e494bb1beebcf62ca5028.jpg</image>
+  </event>
+  <event>
+    <id>1748099758876</id>
+    <title>Bir Minecraft Filmi</title>
+    <description>Ünlü video oyun uyarlaması Minecraft, gizemli bir geçitten aniden Overworld'e çekilen bir grup uyumsuzun bu diyarda yaşadıklarını konu ediniyor.</description>
+    <date>2025-05-30</date>
+    <time>16:00</time>
+    <location>Alanyum Sinemaları, Antalya</location>
+    <type>Sinema</type>
+    <capacity>150</capacity>
+    <remainingCapacity>150</remainingCapacity>
+    <price>400</price>
+    <image>https://b6s54eznn8xq.merlincdn.net/Uploads/Films/bir-minecraft-filmi-20253211317126bc4d00c623d4570be019b794bd05724.jpg</image>
+  </event>
+  <event>
+    <id>erz-spor-001</id>
+    <title>Palandöken Dağ Bisikleti Yarışı</title>
+    <description>Profesyonel ve amatör bisikletçilerin katılacağı, Palandöken yamaçlarında düzenlenecek heyecan dolu bir yarış.</description>
+    <date>2025-07-14</date>
+    <time>10:00</time>
+    <location>Palandöken Kayak Merkezi, Erzurum</location>
+    <type>Spor</type>
+    <capacity>200</capacity>
+    <remainingCapacity>143</remainingCapacity>
+    <price>300</price>
+    <image>https://img.freepik.com/free-photo/cyclist-riding-bicycle-nature_23-2150815939.jpg?ga=GA1.1.52706634.1746973922&amp;semt=ais_hybrid&amp;w=740</image>
+  </event>
+  <event>
+    <id>erz-spor-002</id>
+    <title>Erzurum Maratonu</title>
+    <description>Erzurum şehir merkezinden başlayıp tarihi mekanlardan geçerek sonlanan geleneksel maraton.</description>
+    <date>2025-08-03</date>
+    <time>08:00</time>
+    <location>Erzurum Kent Meydanı, Erzurum</location>
+    <type>Spor</type>
+    <capacity>1000</capacity>
+    <remainingCapacity>730</remainingCapacity>
+    <price>100</price>
+    <image>https://img.freepik.com/premium-photo/diverse-group-individuals-competing-marathon-race-city-road_1235831-49273.jpg?ga=GA1.1.52706634.1746973922&amp;semt=ais_hybrid&amp;w=740</image>
+  </event>
+  <event>
+    <id>erz-spor-003</id>
+    <title>Kış Sporları Gösterisi</title>
+    <description>Snowboard, kayak ve artistik buz pateni gösterileri ile dolu unutulmaz bir gün.</description>
+    <date>2025-12-20</date>
+    <time>13:00</time>
+    <location>Erzurum Buz Sporları Salonu, Erzurum</location>
+    <type>Spor</type>
+    <capacity>800</capacity>
+    <remainingCapacity>638</remainingCapacity>
+    <price>550</price>
+    <image>https://img.freepik.com/free-photo/young-man-skiing-pyrenees-grandvalira-ski-resort_181624-39890.jpg?ga=GA1.1.52706634.1746973922&amp;semt=ais_hybrid&amp;w=740</image>
+  </event>
+  <event>
+    <id>erz-spor-004</id>
+    <title>Off-Road Şampiyonası</title>
+    <description>Türkiye genelinden off-road tutkunlarının katılacağı heyecan verici yarış.</description>
+    <date>2025-09-10</date>
+    <time>11:00</time>
+    <location>Çat Yolu Arazi Parkuru, Erzurum</location>
+    <type>Spor</type>
+    <capacity>300</capacity>
+    <remainingCapacity>248</remainingCapacity>
+    <price>400</price>
+    <image>https://img.freepik.com/free-photo/photorealistic-view-off-road-vehicle-with-nature-terrain-weather-conditions_23-2151430149.jpg?ga=GA1.1.52706634.1746973922&amp;semt=ais_hybrid&amp;w=740</image>
+  </event>
+  <event>
+    <id>ant-spor-001</id>
+    <title>Yüzme Şampiyonası</title>
+    <description>Gençler ve yetişkinler kategorisinde düzenlenen, olimpik havuzda gerçekleşecek yüzme müsabakaları.</description>
+    <date>2025-06-05</date>
+    <time>10:00</time>
+    <location>Antalya Olimpik Yüzme Havuzu, Antalya</location>
+    <type>Spor</type>
+    <capacity>500</capacity>
+    <remainingCapacity>380</remainingCapacity>
+    <price>600</price>
+    <image>https://img.freepik.com/premium-photo/athlete-swims-blue-deep-pool_207634-10571.jpg?ga=GA1.1.52706634.1746973922&amp;semt=ais_hybrid&amp;w=740</image>
+  </event>
+  <event>
+    <id>ant-spor-002</id>
+    <title>Voleybol Turnuvası</title>
+    <description>Antalya'nın meşhur plajlarında heyecan verici bir voleybol turnuvası. Tüm spor severler davetlidir.</description>
+    <date>2025-07-18</date>
+    <time>16:00</time>
+    <location>Lara Halk Plajı, Antalya</location>
+    <type>Spor</type>
+    <capacity>1000</capacity>
+    <remainingCapacity>865</remainingCapacity>
+    <price>500</price>
+    <image>https://img.freepik.com/free-photo/ball-hitting-net_23-2149450951.jpg?ga=GA1.1.52706634.1746973922&amp;semt=ais_hybrid&amp;w=740</image>
+  </event>
+  <event>
+    <id>ant-spor-003</id>
+    <title>Antalya Bisiklet Turu</title>
+    <description>Antalya şehir merkezi ile Konyaaltı sahili arasında gerçekleştirilecek şehir içi bisiklet yarışı.</description>
+    <date>2025-09-01</date>
+    <time>09:30</time>
+    <location>Konyaaltı Sahil Yolu, Antalya</location>
+    <type>Spor</type>
+    <capacity>300</capacity>
+    <remainingCapacity>274</remainingCapacity>
+    <price>1200</price>
+    <image>https://img.freepik.com/premium-photo/woman-high-five-sunset-mountain-biking-trip_979187-7798.jpg?ga=GA1.1.52706634.1746973922&amp;semt=ais_hybrid&amp;w=740</image>
+  </event>
+  <event>
+    <id>erz-konser-001</id>
+    <title>Melek Mosso Konseri</title>
+    <description>Duygusal ve güçlü sesiyle Melek Mosso, Erzurum seyircisiyle buluşuyor. Unutulmaz bir akşam sizi bekliyor.</description>
+    <date>2025-07-05</date>
+    <time>20:30</time>
+    <location>Necip Fazıl Kısakürek Kültür Merkezi, Erzurum</location>
+    <type>Konser</type>
+    <capacity>600</capacity>
+    <remainingCapacity>471</remainingCapacity>
+    <price>350</price>
+    <image>https://img.freepik.com/free-photo/back-view-crowd-fans-watching-live-performance-music-concert-night-copy-space_637285-544.jpg?ga=GA1.1.52706634.1746973922&amp;semt=ais_hybrid&amp;w=740</image>
+  </event>
+  <event>
+    <id>erz-konser-002</id>
+    <title>Erzurum Türkü Gecesi</title>
+    <description>Yerel sanatçılar ve halk müziği ustaları, Erzurum türküleriyle dolu nostaljik bir gece sunuyor.</description>
+    <date>2025-08-12</date>
+    <time>19:00</time>
+    <location>Erzurum Kent Meydanı, Erzurum</location>
+    <type>Konser</type>
+    <capacity>1000</capacity>
+    <remainingCapacity>912</remainingCapacity>
+    <price>400</price>
+    <image>https://img.freepik.com/premium-photo/street-musician-performing-folk-song-playing-traditional-ottoman-turkish-baglama-saz-string-instrument_984126-1134.jpg?ga=GA1.1.52706634.1746973922&amp;semt=ais_hybrid&amp;w=740</image>
+  </event>
+  <event>
+    <id>erz-konser-003</id>
+    <title>Erzurum Rock Gecesi</title>
+    <description>Genç rock gruplarının sahne alacağı enerjik bir gece. Gitarlar konuşacak, davullar susmayacak!</description>
+    <date>2025-09-07</date>
+    <time>21:00</time>
+    <location>Erzurum Gençlik Merkezi Açıkhava Sahnesi, Erzurum</location>
+    <type>Konser</type>
+    <capacity>800</capacity>
+    <remainingCapacity>674</remainingCapacity>
+    <price>900</price>
+    <image>https://img.freepik.com/premium-photo/minsk-29-april-2018-popular-rock-group-nuteki-stage_202443-703.jpg?ga=GA1.1.52706634.1746973922&amp;semt=ais_hybrid&amp;w=740</image>
+  </event>
+  <event>
+    <id>ank-spor-001</id>
+    <title>Ankara Koşu Festivali</title>
+    <description>5K, 10K ve 21K kategorilerinde düzenlenen yılın en enerjik koşu etkinliği.</description>
+    <date>2025-06-09</date>
+    <time>08:00</time>
+    <location>Gençlik Parkı, Altındağ, Ankara</location>
+    <type>Spor</type>
+    <capacity>1200</capacity>
+    <remainingCapacity>1080</remainingCapacity>
+    <price>350</price>
+    <image>https://img.freepik.com/premium-photo/people-running-road_1048944-26238711.jpg?ga=GA1.1.52706634.1746973922&amp;semt=ais_hybrid&amp;w=740</image>
+  </event>
+  <event>
+    <id>ank-spor-002</id>
+    <title>Başkent Dağ Bisikleti Yarışları</title>
+    <description>Ankara çevresindeki parkurlarda amatör ve profesyonellerin katılacağı bisiklet yarışı.</description>
+    <date>2025-07-02</date>
+    <time>10:00</time>
+    <location>Elmadağ Kayak Merkezi, Ankara</location>
+    <type>Spor</type>
+    <capacity>300</capacity>
+    <remainingCapacity>267</remainingCapacity>
+    <price>900</price>
+    <image>https://img.freepik.com/free-photo/young-adult-using-electric-bike-country-side_23-2149124614.jpg?ga=GA1.1.52706634.1746973922&amp;semt=ais_hybrid&amp;w=740</image>
+  </event>
+  <event>
+    <id>ank-spor-003</id>
+    <title>Tenis Turnuvası</title>
+    <description>Genç sporcular ve kulüplerin katıldığı Ankara genel tenis turnuvası.</description>
+    <date>2025-08-17</date>
+    <time>11:00</time>
+    <location>Atatürk Spor Salonu, Ankara</location>
+    <type>Spor</type>
+    <capacity>400</capacity>
+    <remainingCapacity>310</remainingCapacity>
+    <price>450</price>
+    <image>https://img.freepik.com/free-photo/view-tennis-racket-hitting-ball_23-2151378486.jpg?ga=GA1.1.52706634.1746973922&amp;semt=ais_hybrid&amp;w=740</image>
+  </event>
+  <event>
+    <id>bur-spor-001</id>
+    <title>Dağ Maratonu</title>
+    <description>Uludağ'ın eteklerinde doğa ile iç içe bir maraton deneyimi.</description>
+    <date>2025-07-20</date>
+    <time>09:00</time>
+    <location>Uludağ Milli Parkı, Bursa</location>
+    <type>Spor</type>
+    <capacity>1000</capacity>
+    <remainingCapacity>821</remainingCapacity>
+    <price>950</price>
+    <image>https://img.freepik.com/free-photo/cool-man-with-tattoos-ultra-trail-runner_346278-119.jpg?ga=GA1.1.52706634.1746973922&amp;semt=ais_hybrid&amp;w=740</image>
+  </event>
+  <event>
+    <id>bur-spor-002</id>
+    <title>Plaj Voleybol Turnuvası</title>
+    <description>Mudanya sahilinde düzenlenen keyifli ve rekabet dolu plaj voleybolu turnuvası.</description>
+    <date>2025-08-03</date>
+    <time>16:00</time>
+    <location>Mudanya Sahili, Bursa</location>
+    <type>Spor</type>
+    <capacity>500</capacity>
+    <remainingCapacity>463</remainingCapacity>
+    <price>500</price>
+    <image>https://img.freepik.com/free-photo/details-ball-sport_23-2151869832.jpg?ga=GA1.1.52706634.1746973922&amp;semt=ais_hybrid&amp;w=740</image>
+  </event>
+  <event>
+    <id>bur-spor-003</id>
+    <title>Kick Boks Gecesi</title>
+    <description>Türkiye’nin dört bir yanından gelen sporcuların mücadele edeceği nefes kesen karşılaşmalar.</description>
+    <date>2025-09-14</date>
+    <time>19:00</time>
+    <location>TOFAŞ Spor Salonu, Bursa</location>
+    <type>Spor</type>
+    <capacity>2000</capacity>
+    <remainingCapacity>1625</remainingCapacity>
+    <price>1500</price>
+    <image>https://img.freepik.com/free-photo/professional-boxer-boxing-ring-boxing-training_654080-367.jpg?ga=GA1.1.52706634.1746973922&amp;semt=ais_hybrid&amp;w=740</image>
+  </event>
+  <event>
+    <id>izm-spor-001</id>
+    <title>İzmir Triatlonu</title>
+    <description>Yüzme, bisiklet ve koşunun birleştiği zorlu bir parkurda dayanıklılığın sınırlarını zorlayın.</description>
+    <date>2025-06-30</date>
+    <time>07:30</time>
+    <location>İnciraltı Kent Ormanı, İzmir</location>
+    <type>Spor</type>
+    <capacity>800</capacity>
+    <remainingCapacity>610</remainingCapacity>
+    <price>750</price>
+    <image>https://img.freepik.com/free-photo/close-up-man-swimming_23-2148769005.jpg?ga=GA1.1.52706634.1746973922&amp;semt=ais_hybrid&amp;w=740</image>
+  </event>
+  <event>
+    <id>izm-spor-002</id>
+    <title>Alsancak Gece Koşusu</title>
+    <description>İzmir Körfezi boyunca uzanan eşsiz bir gece koşusu deneyimi. Her seviyeden koşucuya açık.</description>
+    <date>2025-07-25</date>
+    <time>21:00</time>
+    <location>Kordon Boyu, İzmir</location>
+    <type>Spor</type>
+    <capacity>1500</capacity>
+    <remainingCapacity>1294</remainingCapacity>
+    <price>350</price>
+    <image>https://img.freepik.com/free-photo/healthy-lifestyle-running-outdoors_23-2151847247.jpg?ga=GA1.1.52706634.1746973922&amp;semt=ais_hybrid&amp;w=740</image>
+  </event>
+  <event>
+    <id>izm-spor-003</id>
+    <title>Tenis Açık Turnuvası</title>
+    <description>Türkiye’nin farklı şehirlerinden gelen sporcularla gerçekleşen açık tenis turnuvası.</description>
+    <date>2025-08-10</date>
+    <time>10:00</time>
+    <location>İzmir Atatürk Spor Kompleksi, İzmir</location>
+    <type>Spor</type>
+    <capacity>600</capacity>
+    <remainingCapacity>540</remainingCapacity>
+    <price>650</price>
+    <image>https://img.freepik.com/premium-photo/padel-tennis-player-man-athlete-with-paddle-tenis-racket-neon-background-sport-concept-download_881647-965.jpg?ga=GA1.1.52706634.1746973922&amp;semt=ais_hybrid&amp;w=740</image>
+  </event>
+</events>

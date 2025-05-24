@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sepet - Eventify</title>
+    <link rel="stylesheet" href="css/cart.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="top-navbar">
+        <div class="brand">
+            <i class="fas fa-calendar-check"></i>
+            <h1>Eventify</h1>
+        </div>
+        
+        <div class="nav-center">
+        </div>
+        
+        <div class="nav-right">
+            <a href="/dashboard" class="nav-link"><i class="fas fa-home"></i> Ana Sayfa</a>
+            <a href="welcome.html" id="logoutBtn" class="nav-link"><i class="fas fa-sign-out-alt"></i> Çıkış Yap</a>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="cart-layout">
+            <section class="cart-main-section">
+                <h2>Sepetiniz</h2>
+                <div id="cartItems" class="cart-items">
+                    <p class="empty-cart">Sepetinizde ürün bulunmamaktadır.</p>
+                </div>
+                <div class="cart-actions">
+                    <a href="/dashboard" class="btn primary-btn"><i class="fas fa-shopping-bag"></i> Alışverişe Devam Et</a>
+                </div>
+            </section>
+            
+            <section class="cart-sidebar-section">
+                    <div class="cart-summary">
+                        <h3>Sipariş Özeti</h3>
+                        <div class="summary-item">
+                            <span>Toplam Tutar:</span>
+                            <span id="totalPrice">0.00 ₺</span>
+                        </div>
+                        <div class="summary-item" id="orderNumberContainer" style="display: none;">
+                            <span>Sipariş Numarası:</span>
+                            <span id="orderNumberDisplay"></span>
+                        </div>
+                <div class="payment-options">
+                    <div id="paymentAlert" class="payment-alert" style="display: none;">
+                        <i class="fas fa-exclamation-circle"></i>
+                        <span id="alertMessage">Lütfen tüm kart bilgilerini doldurun.</span>
+                    </div>
+                    <h4>Ödeme Yöntemi</h4>
+                    <div class="radio-group">
+                        <label>
+                            <input type="radio" name="paymentMethod" value="creditCard" checked> Kredi/Banka Kartı
+                        </label>
+                        <label>
+                            <input type="radio" name="paymentMethod" value="bankTransfer"> Banka Havalesi
+                        </label>
+                        <label>
+                            <input type="radio" name="paymentMethod" value="payAtDoor"> Kapıda Ödeme
+                        </label>
+                    </div>
+                    
+                    <div id="creditCardForm" class="payment-form">
+                        <div class="form-group">
+                            <label for="cardName">Kart Üzerindeki İsim</label>
+                            <input type="text" id="cardName" placeholder="Kart üzerindeki isim" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="cardNumber">Kart Numarası</label>
+                            <input type="text" id="cardNumber" placeholder="1234 5678 9012 3456" maxlength="19" required>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group half">
+                                <label for="expiryDate">Son Kullanma Tarihi</label>
+                                <input type="text" id="expiryDate" placeholder="AA/YY" maxlength="5" required>
+                            </div>
+                            <div class="form-group half">
+                                <label for="cvv">CVV</label>
+                                <input type="text" id="cvv" placeholder="123" maxlength="3" required>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div id="bankTransferInfo" class="payment-form">
+                        <p>Banka havalesi için aşağıdaki hesap bilgilerini kullanabilirsiniz:</p>
+                        <p><strong>Banka:</strong> Eventify Bank</p>
+                        <p><strong>IBAN:</strong> TR12 3456 7890 1234 5678 9012 34</p>
+                        <p><strong>Hesap Sahibi:</strong> Eventify Ltd. Şti.</p>
+                        <p class="important-note"><strong>Önemli:</strong> Açıklamaya Sipariş Numarasını girmeyi unutmayınız.</p>
+                    </div>
+
+                    <div id="payAtDoorInfo" class="payment-form">
+                        <p>Kapıda ödeme seçeneğinde, etkinlik biletleriniz için kapıda nakit veya kredi kartı ile ödeme yapabilirsiniz.</p>
+                        <p class="important-note"><strong>Önemli:</strong> Sipariş numaranızı not almayı unutmayın.</p>
+                    </div>
+                </div>
+                        <button id="checkoutBtn" class="btn primary-btn">Ödemeyi Tamamla</button>
+                        <p id="emptyCartMessage" class="empty-cart-message" style="display: none;">Sepetiniz boş! Lütfen önce sepetinize ürün ekleyin.</p>
+                    </div>
+                </section>
+            </div>
+    </main>
+
+    <div id="successModal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <i class="fas fa-check-circle" style="font-size: 3rem; color: #2ecc71; margin-bottom: 15px;"></i>
+            <h2>Satın alma işlemi başarılı!</h2>
+            <p>Siparişiniz başarıyla tamamlandı. Biletleriniz e-posta adresinize gönderilecektir.</p>
+            <button id="modalOkButton" class="btn primary-btn">Tamam</button>
+        </div>
+    </div>
+
+    <script src="js/cart.js"></script>
+</body>
+</html>
